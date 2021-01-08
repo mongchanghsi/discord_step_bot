@@ -1,0 +1,1 @@
+Worker: ts-node app.ts

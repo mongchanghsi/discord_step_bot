@@ -21,5 +21,9 @@
     "discord.js": "^12.5.1",
     "ibm-watson": "^6.0.1",
     "watson-developer-cloud": "^4.0.0"
+  },
+  "engines": {
+    "node": "15.x",
+    "npm": "7.x"
   }
 }
